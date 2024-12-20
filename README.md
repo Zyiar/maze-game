@@ -21,7 +21,7 @@ A 3D WebGL maze game where players guide a football through a maze using physics
    git clone https://github.com/Zyiar/maze-game.git
    ```
 2. **Naviage to the project directory**
-3. **Start the http server**:
+3. **Start the http server by writing this command in your terminal**:
    ```bash
    http-server
    ```
