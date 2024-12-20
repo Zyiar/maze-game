@@ -18,4 +18,11 @@ A 3D WebGL maze game where players guide a football through a maze using physics
 ## Setup Instructions
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/maze-game.git
+   git clone https://github.com/Zyiar/maze-game.git
+   ```
+2. **Naviage to the project directory**
+3. **Start the http server**:
+   ```bash
+   http-server
+   ```
+4. **Access the game at the url provided**
